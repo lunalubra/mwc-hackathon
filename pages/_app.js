@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Title</title>
+        <title>Nuwe</title>
       </Head>
       <ChakraProvider resetCSS theme={theme}>
         <FormProvider initialStep={ACCOUNT_TYPE_FORM}>
